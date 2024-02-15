@@ -1,1 +1,3 @@
 # start-ai-app
+
+AIアプリです
