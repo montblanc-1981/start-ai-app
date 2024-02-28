@@ -74,7 +74,7 @@ def main():
     st.sidebar.markdown("## Costs")
     st.sidebar.markdown(f"**Total cost: ${sum(costs):.5f}**")
     for cost in costs:
-        st.sidebar.markdown(f"- ${cost:5f}")
+        st.sidebar.markdown(f"- ${cost:.5f}")
 
 
 if __name__== '__main__':
